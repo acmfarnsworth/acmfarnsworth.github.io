@@ -3,19 +3,24 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1, h2, h3, h4 {
-  font-family: 'Quattrocento', 'Arial Narrow', Arial, sans-serif;
+h1 {
+  font-family: 'Amatic SC', cursive;
+  margin: .25rem;
+}
+
+h2, h3, h4 {
+  font-family: sans-serif, serif;
   margin: .25rem;
 }
 
 h2 {
-  color: yellow;
+  color: #3ab7a5;
   font-size: 1.2rem;
   font-style: italic;
 }
 
 h3 {
-  color: navy;
+  color: lightblue;
   font-size: 1.2rem;
 }
 
@@ -29,7 +34,7 @@ footer {
 
 header,
 footer {
-  background-color: navy;
+  background-color: lightblue;
   color: #fff;
 }
 
