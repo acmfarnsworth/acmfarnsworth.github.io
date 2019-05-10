@@ -9,7 +9,7 @@ h1 {
 }
 
 h2, h3, h4 {
-  font-family: sans-serif, serif;
+  font-family: 'Shadows Into Light', cursive;
   margin: .25rem;
 }
 
@@ -38,8 +38,14 @@ footer {
   color: #fff;
 }
 
+#header img[src="images/angela.jpg"] {
+	height=20%;
+	
+}
+
 footer {
   text-align: center;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 
