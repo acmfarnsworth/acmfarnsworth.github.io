@@ -68,3 +68,14 @@ img {
   font-size: smaller;
   color: grey;
 }
+
+a {
+	color: gray;
+	font-family: 'Shadows Into Light', cursive;
+	text-decoration: none;
+	
+}
+
+a:hover {
+	color: black;
+}
