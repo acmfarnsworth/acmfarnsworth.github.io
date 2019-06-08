@@ -47,7 +47,7 @@ label {
   font-weight: bold;
   color: black;
 }
-#output, #discount {
+#output, #discount, #answer {
   font-family: 'Indie Flower', cursive;
   color: white;
   font-size: 25px;
